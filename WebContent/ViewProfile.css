@@ -1,0 +1,139 @@
+@CHARSET "UTF-8";
+html, body {
+ 	height: 100%;
+ 	margin-left:0px;
+    margin-top:0px;
+    margin: 0;
+    background-color: #9BC3F0;
+ }
+ #top {
+	background-color: #09478E;
+    padding: 0;
+    height: 40px;
+    margin: 0;
+}
+#top h2 {
+	color: white;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: oblique;
+	text-align: center;
+	font-size: 50px;
+}
+#top-right {
+	float: right;
+}
+.wrapper {
+    border:1px solid #000;
+    display:inline-block;
+    background-color: white;
+}
+
+#searchBox {
+	display:inlines;
+	height: 20px;
+	width: 50 px;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#searchButton {
+	background:url(a3-pngs/search_icon.png) no-repeat;
+    cursor:pointer;
+    background-size: 100% 100%;
+    width: 10px;
+    height: 10px;
+    border: none;
+    margin-top: 0;
+    padding: 0;
+    float: top;
+}
+#top p {
+	color: #ffffff;
+	text-align: center;
+	font-size: 14px;
+}
+#main {
+	height: 205px;
+	background-color: #6587bf;
+	text-align: center;
+	color: white; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+.form {
+	display: inline-block;
+	text-align: center;
+	margin-top: 11%;
+}
+#bottom-left {
+	height: 350px;
+	width: 200px; 
+	float:left;
+	background-color: #9BC3F0;
+}
+#bottom-right {
+	height: 300px;
+	width: 200px; 
+	float:right;
+	background-color: #9BC3F0;
+}
+
+#bottom-left-top {
+	height: 40px;
+	margin-top: 10px;
+	width: 200px; 
+	float:left;
+	background-color: #6587bf;
+	color: #306ccc;
+	margin-bottom: 10px;
+}
+#bottom-right-top {
+	margin-top: 10px;
+	height: 40px;
+	width: 200px; 
+	float:right;
+	background-color: #6587bf;
+	color: #306ccc;
+	margin-bottom: 10px;
+}
+#bottom-top {
+	margin-top: 10px;
+	height: 38px;
+	background-color: #6587bf;
+	color: #306ccc;
+	margin-bottom: 10px;
+}
+ 
+#bottom-left-bottom {
+	height: 40px;
+	margin-top: 10px;
+	width: 200px; 
+	float:left;
+	background-color: #9BC3F0;
+	color: #306ccc;
+	 
+}
+#bottom-right-bottom {
+	margin-top: 10px;
+	height: 40px;
+	width: 200px; 
+	float:right;
+	background-color: #9BC3F0;
+	color: #306ccc;
+	 
+}
+#bottom-middle {
+	 
+	width: 500px; 
+	height: 40px;
+	display: inline-block;
+	text-align: right;
+	color: white;
+	background-color: #9BC3F0;
+	position: relative;
+}
+a {
+    color: white;
+}
+a:hover {
+  	color: blue;
+}

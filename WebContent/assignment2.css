@@ -1,0 +1,56 @@
+ html, body {
+ 	height: 100%;
+ 	margin-left:0px;
+    margin-top:0px;
+    margin: 0;
+    background-color: #9BC3F0;
+ }
+ #top {
+    background-color: #9BC3F0;
+    padding: 0;
+    height: 170px;
+    margin: 0;
+}
+#top h1 {
+	text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+	color: #09478E;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: oblique;
+	text-align: center;
+	font-size: 50px;
+}
+#top p {
+	color: #ffffff;
+	text-align: center;
+	font-size: 14px;
+}
+#main {
+	 
+	height: 400px;
+	background-color: #09478E;
+	text-align: center;
+}
+#innerMain {
+	display:inline-block;
+	height: 40%;
+	width: 40%;
+	margin-top: 120px;
+	background-color: #5D90CA;
+	text-align: center;
+}
+ 
+.form {
+	display: inline-block;
+	text-align: center;
+	margin-top: 11%;
+}
+#bottom {
+	height: 20px;
+	background-color: #9BC3F0;
+}
+a {
+    color: white;
+}
+a:hover {
+  	color: blue;
+}

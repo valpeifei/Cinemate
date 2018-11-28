@@ -1,4 +1,4 @@
 ipaddress:localhost 
 db:peifeili_cinemate
 user:root
-password:Lipeifei1997!
+password:password
